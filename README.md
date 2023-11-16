@@ -1,5 +1,5 @@
 # Venus-Flytrap
-Robotics and LEGO combine to make this Venus Flytrap.
+Robotics and LEGO combine to make this Venus Flytrap. Designed for [Techspace Learning Inc](https://techspacelearning.org/). 
 
 ![Venus Flytrap - Basic Mechanical - Together Final](https://github.com/NoahLobbe/Venus-Flytrap/assets/115848968/cfeb8cfc-c2cc-476b-8a24-d7c71e311c86)
 
