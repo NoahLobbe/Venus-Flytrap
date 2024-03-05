@@ -1,8 +1,9 @@
 # Venus-Flytrap
 Robotics and LEGO combine to make this Venus Flytrap. Designed for [Techspace Learning Inc](https://techspacelearning.org/). 
 
-See it in action: 
-![Brixpo 2023](https://www.facebook.com/techspacelearning/videos/we-have-many-new-displays-including-snappy-the-venus-fly-trap-there-is-still-tim/781436816791968/)
+See it in action: [Brixpo 2023](https://www.facebook.com/techspacelearning/videos/we-have-many-new-displays-including-snappy-the-venus-fly-trap-there-is-still-tim/781436816791968/)
+
+(blob:https://www.facebook.com/92b6d21e-9b3b-43e3-9bf4-3589b46cea19)
 
 
 
